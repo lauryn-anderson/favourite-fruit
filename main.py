@@ -5,3 +5,4 @@ name = input('What is your name?\n')
 
 print(name + '\'s favourite fruit is ' + favourite_fruit)
 
+print("That's a great fruit!")
